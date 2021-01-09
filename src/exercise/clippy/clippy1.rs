@@ -1,5 +1,8 @@
 fn main(){
+    let x= 1.322f64;
+    let y = 1.321f64;
 
-    println!("hello world");
-
+    if x!=y {
+        println!("success");
+    }
 }
